@@ -13,6 +13,7 @@
 		04D9A9D02764F78300C1E88F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04D9A9CE2764F78300C1E88F /* Main.storyboard */; };
 		04D9A9D22764F78700C1E88F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04D9A9D12764F78700C1E88F /* Assets.xcassets */; };
 		04D9A9D52764F78700C1E88F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04D9A9D32764F78700C1E88F /* LaunchScreen.storyboard */; };
+		B4C82C5D27655C1B009F5EA8 /* TaskOutlineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C82C5C27655C1A009F5EA8 /* TaskOutlineViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		04D9A9D12764F78700C1E88F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04D9A9D42764F78700C1E88F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04D9A9D62764F78700C1E88F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4C82C5C27655C1A009F5EA8 /* TaskOutlineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskOutlineViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				04D9A9C82764F78300C1E88F /* AppDelegate.swift */,
 				04D9A9CA2764F78300C1E88F /* SceneDelegate.swift */,
 				04D9A9CC2764F78300C1E88F /* ViewController.swift */,
+				B4C82C5C27655C1A009F5EA8 /* TaskOutlineViewController.swift */,
 				04D9A9CE2764F78300C1E88F /* Main.storyboard */,
 				04D9A9D12764F78700C1E88F /* Assets.xcassets */,
 				04D9A9D32764F78700C1E88F /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4C82C5D27655C1B009F5EA8 /* TaskOutlineViewController.swift in Sources */,
 				04D9A9CD2764F78300C1E88F /* ViewController.swift in Sources */,
 				04D9A9C92764F78300C1E88F /* AppDelegate.swift in Sources */,
 				04D9A9CB2764F78300C1E88F /* SceneDelegate.swift in Sources */,
